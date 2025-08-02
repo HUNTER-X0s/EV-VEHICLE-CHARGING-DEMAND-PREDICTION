@@ -111,17 +111,6 @@ streamlit run app.py
 
 ---
 
-## 📷 Screenshots
-> _You can add screenshots here once available_
-
-```md
-![Forecast Graph](screenshots/screenshot1.png)
-![County Comparison](screenshots/screenshot2.png)
-![Growth Insights](screenshots/screenshot3.png)
-```
-
----
-
 ## 📚 Acknowledgment
 
 - **Internship Program**: AICTE Virtual Internship (Cycle 2)  
